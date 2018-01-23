@@ -1,0 +1,37 @@
+[
+  {
+    "id": "di_drumstep_hi",
+    "name": "Digitally Imported - Drumstep",
+    "url": "http://prem3.di.fm:80/drumstep?236301b16f1f9605b5b0636d"
+  },
+  {
+    "id": "di_drumandbass_hi",
+    "name": "Digitally Imported - Drum & Bass",
+    "url": "http://pub1.diforfree.org:8000/di_drumandbass_hi"
+  },
+  {
+    "id": "di_chillstep_hi",
+    "name": "Digitally Imported - Chillstep",
+    "url": "http://pub1.diforfree.org:8000/di_chillstep_hi"
+  },
+  {
+    "id": "di_vocaltrance_hi",
+    "name": "Digitally Imported - Vocal Trance",
+    "url": "http://pub1.diforfree.org:8000/di_vocaltrance_hi"
+  },
+  {
+    "id": "di_liquiddnb_hi",
+    "name": "Digitally Imported - Liquid DnB",
+    "url": "http://pub1.diforfree.org:8000/di_liquiddnb_hi"
+  },
+  {
+    "id": "di_breaks_hi",
+    "name": "Digitally Imported - Breaks",
+    "url": "http://pub1.diforfree.org:8000/di_breaks_hi"
+  },
+  {
+    "id": "di_dubstep_hi",
+    "name": "Digitally Imported - Dubstep",
+    "url": "http://pub1.diforfree.org:8000/di_dubstep_hi"
+  }
+]
